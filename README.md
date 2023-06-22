@@ -1,4 +1,4 @@
-# Mask-NoMask-LIVE Detection Alarm 
+# Mask-NoMask-LIVE Detection Alarm [DEMO](https://youtu.be/q1qlpDHZvZQ)
 ### **YOLOv5** architecture used for train the object detection model. 
 
 
