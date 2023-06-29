@@ -4,18 +4,16 @@
 
 ### Dataset - [kaggle link](https://www.kaggle.com/datasets/akhilsharmaa/mask-nomask-yolov5)
 This is **annoted & preproccesed** data that is formated in the **YOLOv5 supported formated**. You only have to feed the `dataset.yaml` file in the YOLOv5 training command.
-
+DEMO Video [link](https://youtu.be/q1qlpDHZvZQ)
 
 
 https://github.com/akhilsharmaa/Real-Time-Face-Mask-Detection-YOLOv5/assets/74103314/8f605092-4e2d-44dd-993d-e6aa7d948d3d
 
 
-## DEMO Video [link](https://youtu.be/q1qlpDHZvZQ)
-
 # Training the MODEL 
-![val_batch1_labels](https://user-images.githubusercontent.com/74103314/236662698-ac88f6f8-ac9f-49f6-a07c-f2562bb1454c.jpg)
-
 Model [model_link](https://github.com/akhilsharmaa/NO-MASK-Detection-YOLOv5/blob/main/model.pt) is train using  **736 training images & 184 validation images** not same resolution. **30 epochs** are done on the dataset. The Epoch summary after running 30 epochs on the dataset: 
+
+![val_batch1_labels](https://user-images.githubusercontent.com/74103314/236662698-ac88f6f8-ac9f-49f6-a07c-f2562bb1454c.jpg)
 
 ```      
       Epoch    GPU_mem   box_loss   obj_loss   cls_loss     Instances        Size
