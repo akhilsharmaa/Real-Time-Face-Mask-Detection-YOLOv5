@@ -5,6 +5,11 @@
 ### Dataset - [kaggle link](https://www.kaggle.com/datasets/akhilsharmaa/mask-nomask-yolov5)
 This is **annoted & preproccesed** data that is formated in the **YOLOv5 supported formated**. You only have to feed the `dataset.yaml` file in the YOLOv5 training command.
 
+
+
+https://github.com/akhilsharmaa/Real-Time-Face-Mask-Detection-YOLOv5/assets/74103314/8f605092-4e2d-44dd-993d-e6aa7d948d3d
+
+
 ## DEMO Video [link](https://youtu.be/q1qlpDHZvZQ)
 
 # Training the MODEL 
