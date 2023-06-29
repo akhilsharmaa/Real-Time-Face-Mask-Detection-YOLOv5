@@ -1,4 +1,4 @@
-# Real-Time-Face-Mask-Detection-Alarm [DEMO](https://youtu.be/q1qlpDHZvZQ)
+# [Real-Time-Face-Mask-Detection-Alarm ](https://youtu.be/q1qlpDHZvZQ)
 ### **YOLOv5** architecture used for train the object detection model. 
 
 
